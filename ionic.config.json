@@ -1,0 +1,7 @@
+{
+  "name": "SignPadApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
